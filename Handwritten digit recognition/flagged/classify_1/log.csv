@@ -1,0 +1,4 @@
+input_0,output_0
+input_2020-10-08-18-44-12.png,"{'confidences': [{'confidence': 0.19072604179382324, 'label': '5'}, {'confidence': 0.14998674392700195, 'label': '4'}, {'confidence': 0.130731001496315, 'label': '2'}], 'label': '5'}"
+input_2020-10-08-18-44-13.png,"{'confidences': [{'confidence': 0.19072604179382324, 'label': '5'}, {'confidence': 0.14998674392700195, 'label': '4'}, {'confidence': 0.130731001496315, 'label': '2'}], 'label': '5'}"
+input_2020-10-08-18-44-15.png,"{'confidences': [{'confidence': 0.19072604179382324, 'label': '5'}, {'confidence': 0.14998674392700195, 'label': '4'}, {'confidence': 0.130731001496315, 'label': '2'}], 'label': '5'}"
